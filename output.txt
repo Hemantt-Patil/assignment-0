@@ -1,0 +1,12 @@
+Employees with 7 consecutive days:
+John Doe
+Alice Smith
+Bob Johnson
+Eva Williams
+George Davis
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+
+Employees who worked for more than 14 hours in a single shift:
+Eva Williams
+George Davis
